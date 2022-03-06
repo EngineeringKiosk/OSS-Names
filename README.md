@@ -7,7 +7,7 @@ This repository contains the history and reason how various Open Source projects
 
 # Projects
 
-## [MySQL]
+## [MySQL](https://www.mysql.com/)
 
 > [...] The name MySQL (just like the MyISAM storage engine) comes from Monty's first daughter "My". [...]
 
