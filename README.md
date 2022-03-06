@@ -22,3 +22,9 @@ Source: [Why is the Software Called MariaDB? @ MariaDB Knowledgebase](https://ma
 Monty in the above quote is [Michael Widenius](https://en.wikipedia.org/wiki/Michael_Widenius).
 
 Source: [Why is the Software Called MariaDB? @ MariaDB Knowledgebase](https://mariadb.com/kb/en/why-is-the-software-called-mariadb/) (former AskMonty Knowlesgebase)
+
+## [Wikidata QID](https://www.wikidata.org)
+
+> The QID which identifies a thing in Wikidata is using the letter Q as [Denny Vrandečić](https://en.wikipedia.org/wiki/Denny_Vrande%C4%8Di%C4%87)'s wife's name starts with a Q. Denny is one of the founding members of Wikidata.
+
+Source: mentioned by Denny Vrandečić in the German documentary "Wikipedia - Die Schwarmoffensive" by Maria Teresa Curzio
