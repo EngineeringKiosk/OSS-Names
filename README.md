@@ -28,3 +28,9 @@ Source: [Why is the Software Called MariaDB? @ MariaDB Knowledgebase](https://ma
 > The QID which identifies a thing in Wikidata is using the letter Q as [Denny Vrandečić](https://en.wikipedia.org/wiki/Denny_Vrande%C4%8Di%C4%87)'s wife's name starts with a Q. Denny is one of the founding members of Wikidata.
 
 Source: mentioned by Denny Vrandečić in the German documentary "Wikipedia - Die Schwarmoffensive" by Maria Teresa Curzio
+
+## [Kubernetes](https://kubernetes.io/)
+
+> The name Kubernetes originates from Greek, meaning helmsman or pilot. K8s as an abbreviation results from counting the eight letters between the "K" and the "s". [...]
+
+Source: [Kubernetes website "What is Kubernetes?"](https://github.com/kubernetes/website/blob/f7688691e10716d66ac3fdd9c87a825c5065e109/content/en/docs/concepts/overview/what-is-kubernetes.md)
