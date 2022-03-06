@@ -28,3 +28,9 @@ Source: [Why is the Software Called MariaDB? @ MariaDB Knowledgebase](https://ma
 > The QID which identifies a thing in Wikidata is using the letter Q as [Denny Vrandečić](https://en.wikipedia.org/wiki/Denny_Vrande%C4%8Di%C4%87)'s wife's name starts with a Q. Denny is one of the founding members of Wikidata.
 
 Source: mentioned by Denny Vrandečić in the German documentary "Wikipedia - Die Schwarmoffensive" by Maria Teresa Curzio
+
+## [Apache Kafka](https://kafka.apache.org/)
+
+> I thought that since Kafka was a system optimized for writing using a writer's name would make sense. I had taken a lot of lit classes in college and liked Franz Kafka. Plus the name sounded cool for an open source project.
+
+Source: [Jay Kreps @ "What is the relation between Kafka, the writer, and Apache Kafka, the distributed messaging system?" Quora question](https://www.quora.com/What-is-the-relation-between-Kafka-the-writer-and-Apache-Kafka-the-distributed-messaging-system/answer/Jay-Kreps)
