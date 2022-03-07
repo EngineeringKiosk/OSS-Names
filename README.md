@@ -29,6 +29,12 @@ Source: [Why is the Software Called MariaDB? @ MariaDB Knowledgebase](https://ma
 
 Source: mentioned by Denny Vrandečić in the German documentary "Wikipedia - Die Schwarmoffensive" by Maria Teresa Curzio
 
+## [Apache Hadoop](https://hadoop.apache.org/)
+
+> The name my kid gave a stuffed yellow elephant. Short, relatively easy to spell and pronounce, meaningless, and not used elsewhere: those are my naming criteria.
+
+Source: Doug Cutting, co-founder of Apache Hadoop, quoted in [Hadoop: The Definitive Guide by Tom White](https://www.oreilly.com/library/view/hadoop-the-definitive/9780596521974/)
+
 ## [Apache Kafka](https://kafka.apache.org/)
 
 > I thought that since Kafka was a system optimized for writing using a writer's name would make sense. I had taken a lot of lit classes in college and liked Franz Kafka. Plus the name sounded cool for an open source project.
