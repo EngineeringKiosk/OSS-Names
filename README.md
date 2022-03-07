@@ -29,6 +29,12 @@ Source: [Why is the Software Called MariaDB? @ MariaDB Knowledgebase](https://ma
 
 Source: mentioned by Denny Vrandečić in the German documentary "Wikipedia - Die Schwarmoffensive" by Maria Teresa Curzio
 
+## [Kubernetes](https://kubernetes.io/)
+
+> The name Kubernetes originates from Greek, meaning helmsman or pilot. K8s as an abbreviation results from counting the eight letters between the "K" and the "s". [...]
+
+Source: [Kubernetes website "What is Kubernetes?"](https://github.com/kubernetes/website/blob/f7688691e10716d66ac3fdd9c87a825c5065e109/content/en/docs/concepts/overview/what-is-kubernetes.md)
+
 ## [cURL](https://curl.se/)
 
 > The tool we had been working on for a while was still called urlget in the beginning of 1998 but as we just recently added FTP upload capabilities that name turned wrong and I decided cURL would be more suitable. I picked ‘cURL’ because the word contains URL and already then the tool worked primarily with URLs, and I thought that it was fun to partly make it a real English word “curl” but also that you could pronounce it “see URL” as the tool would display the contents of a URL.
