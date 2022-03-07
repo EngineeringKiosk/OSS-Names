@@ -36,3 +36,10 @@ Source: mentioned by Denny Vrandečić in the German documentary "Wikipedia - Di
 > Much later, someone (I forget who) came up with the “backronym” Curl URL Request Library which of course is totally awesome.
 
 Source: [cURL, 17 years old today @ Daniel Stenberg blog](https://daniel.haxx.se/blog/2015/03/20/curl-17-years-old-today/)
+
+## [Debian](https://www.debian.org/)
+
+> Debian was begun in August 1993 by Ian Murdock, as a new distribution which would be made openly, in the spirit of Linux and GNU. [..]
+> Debian is pronounced /ˈde.bi.ən/. It comes from the names of the creator of Debian, Ian Murdock, and his wife, Debra.
+
+Source [About Section - Official Debian Homepage](https://www.debian.org/intro/about)
