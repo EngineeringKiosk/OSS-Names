@@ -29,6 +29,12 @@ Source: [Why is the Software Called MariaDB? @ MariaDB Knowledgebase](https://ma
 
 Source: mentioned by Denny Vrandečić in the German documentary "Wikipedia - Die Schwarmoffensive" by Maria Teresa Curzio
 
+## [Apache Kafka](https://kafka.apache.org/)
+
+> I thought that since Kafka was a system optimized for writing using a writer's name would make sense. I had taken a lot of lit classes in college and liked Franz Kafka. Plus the name sounded cool for an open source project.
+
+Source: [Jay Kreps @ "What is the relation between Kafka, the writer, and Apache Kafka, the distributed messaging system?" Quora question](https://www.quora.com/What-is-the-relation-between-Kafka-the-writer-and-Apache-Kafka-the-distributed-messaging-system/answer/Jay-Kreps)
+
 ## [Kubernetes](https://kubernetes.io/)
 
 > The name Kubernetes originates from Greek, meaning helmsman or pilot. K8s as an abbreviation results from counting the eight letters between the "K" and the "s". [...]
