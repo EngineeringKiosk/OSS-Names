@@ -5,6 +5,9 @@ Like why is MySQL named MySQL? And not FooSQL?
 
 This repository contains the history and reason how various Open Source projects got their name.
 
+<!-- START doctoc -->
+<!-- END doctoc -->
+
 # Projects
 
 ## [MySQL](https://www.mysql.com/)
