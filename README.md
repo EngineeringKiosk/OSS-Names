@@ -61,3 +61,11 @@ Source: [cURL, 17 years old today @ Daniel Stenberg blog](https://daniel.haxx.se
 > Debian is pronounced /ˈde.bi.ən/. It comes from the names of the creator of Debian, Ian Murdock, and his wife, Debra.
 
 Source [About Section - Official Debian Homepage](https://www.debian.org/intro/about)
+
+## [Laravel](https://laravel.com/)
+
+> Taylor Otwell was searching for a random word to name the project.
+> He was playing a game at this time. Inside the game, he had a boat, a caravelle.
+> He asked himself, "What rhymes with that?". He came up with "Laravel" and thought, "That sounds like something I would use [...] that sounds like a professional development framework".
+
+Source: [Laravel Origins: The Documentary](https://www.youtube.com/watch?v=127ng7botO4) (Minute 05:05 - 05:52)
