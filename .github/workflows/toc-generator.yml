@@ -1,0 +1,13 @@
+name: Generate Table of Content
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate-toc:
+    name: Generate Table of Content
+    runs-on: ubuntu-20.04
+    steps:
+      - uses: technote-space/toc-generator@v4

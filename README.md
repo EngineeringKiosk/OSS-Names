@@ -5,6 +5,22 @@ Like why is MySQL named MySQL? And not FooSQL?
 
 This repository contains the history and reason how various Open Source projects got their name.
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [Projects](#projects)
+  - [MySQL](#mysql)
+  - [MariaDB](#mariadb)
+  - [Wikidata QID](#wikidata-qid)
+  - [Apache Hadoop](#apache-hadoop)
+  - [Apache Kafka](#apache-kafka)
+  - [Kubernetes](#kubernetes)
+  - [cURL](#curl)
+  - [Debian](#debian)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Projects
 
 ## [MySQL](https://www.mysql.com/)
