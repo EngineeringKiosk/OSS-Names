@@ -18,6 +18,7 @@ This repository contains the history and reason how various Open Source projects
   - [Kubernetes](#kubernetes)
   - [cURL](#curl)
   - [Debian](#debian)
+  - [Laravel](#laravel)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
