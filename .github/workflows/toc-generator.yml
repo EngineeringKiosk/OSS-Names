@@ -4,10 +4,11 @@ on:
   push:
     branches:
       - main
+  workflow_dispatch:
 
 jobs:
   generate-toc:
     name: Generate Table of Content
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-22.04
     steps:
-      - uses: technote-space/toc-generator@v4
+      - uses: technote-space/toc-generator@v4.3.1
